@@ -12,16 +12,13 @@
 
 ## 🔥 Connect With Me
 
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ahmed43878828)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-arafat-064621231/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/100009301666769)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@ahmed.arafat3535)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/user3199qk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmeddarafat.github.io/portfolio/)
-
-</div>
+<p align="center">
+  <a href="https://twitter.com/ahmed43878828" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ahmed-arafat-064621231/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://fb.com/100009301666769" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@ahmed.arafat3535" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/user3199qk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
+</p>
 
 ---
 
@@ -54,8 +51,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmeddarafat&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddarafat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmeddarafat&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmeddarafat&theme=tokyonight" />
 
 </div>
 
