@@ -41,15 +41,6 @@ I enjoy turning product requirements into clean, scalable solutions — from arc
 
 **Backend integration:** RESTful APIs · GraphQL · WebSockets · Firebase
 
-## 🚀 Selected Work
-
-| Project | What it does |
-| --- | --- |
-| [Flutter Tap Payment](https://github.com/ahmeddarafat/flutter_tap_payment) | A lightweight Flutter integration for Tap Payments using WebView |
-| [Cashierc](https://github.com/ahmeddarafat/cashierc) | Smart supermarket checkout concept connecting a Flutter app with AI-powered product recognition |
-| [Evnto](https://github.com/ahmeddarafat/Evnto) | A university-focused event platform concept for the Mansoura University community |
-| [Portfolio](https://ahmeddarafat.github.io/portfolio/) | A place to explore more about me and my work |
-
 ## 📊 GitHub Overview
 
 <div align="center">
