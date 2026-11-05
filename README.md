@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=190&section=header&text=Ahmed%20Arafat&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Ahmed Arafat — Flutter Developer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+cross-platform+mobile+apps;Clean+Architecture+%7C+ BLoC+%7C+Flutter;Turning+ideas+into+reliable+products" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+cross-platform+mobile+apps;Clean+Architecture+%7C+BLoC+%7C+Flutter;Turning+ideas+into+reliable+products" alt="Typing introduction" />
 </a>
 
 <p>
